@@ -1,0 +1,6 @@
+Hi, this is a group project titled "Stock Prediction Using LSTM"
+Made by:
+- Richard Dean Tanjaya
+- Patrick Surya Pranata
+- Grace Esther
+- Timothy Paul
