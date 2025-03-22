@@ -12,8 +12,8 @@ This project analyzes the stock price of **Bank Central Asia (BBCA.JK)** using d
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/bbca-stock-analysis.git  
-   cd bbca-stock-analysis  
+   git clone https://github.com/gredss/Stock-Prediction-using-LSTM.git
+   cd Stock-Prediction-using-LSTM
    ```  
 2. Install required dependencies:  
    ```bash
